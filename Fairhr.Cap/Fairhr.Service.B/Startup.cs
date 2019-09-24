@@ -38,6 +38,7 @@ namespace Fairhr.Service.B
                     //cfg.Port = 5672;
                     cfg.Password = "rabbitmq";
                     cfg.UserName = "rabbitmq";
+                    
                 });
                 
                 x.UseDashboard();
