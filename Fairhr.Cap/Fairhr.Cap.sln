@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fairhr.Service.A", "Fairhr.Service.A\Fairhr.Service.A.csproj", "{93FE93FB-6B37-4D3E-ABAE-D1ED7BAF2A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fairhr.Service.B", "Fairhr.Service.B\Fairhr.Service.B.csproj", "{0AA296F7-2D98-4813-B902-C4AA00DD7AD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comment", "Comment\Comment.csproj", "{375802C7-F1F9-4FC7-B23C-0BD3D67FB12D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93FE93FB-6B37-4D3E-ABAE-D1ED7BAF2A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FE93FB-6B37-4D3E-ABAE-D1ED7BAF2A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FE93FB-6B37-4D3E-ABAE-D1ED7BAF2A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FE93FB-6B37-4D3E-ABAE-D1ED7BAF2A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA296F7-2D98-4813-B902-C4AA00DD7AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA296F7-2D98-4813-B902-C4AA00DD7AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA296F7-2D98-4813-B902-C4AA00DD7AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA296F7-2D98-4813-B902-C4AA00DD7AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375802C7-F1F9-4FC7-B23C-0BD3D67FB12D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375802C7-F1F9-4FC7-B23C-0BD3D67FB12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375802C7-F1F9-4FC7-B23C-0BD3D67FB12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375802C7-F1F9-4FC7-B23C-0BD3D67FB12D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

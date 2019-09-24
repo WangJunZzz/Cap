@@ -1,0 +1,9 @@
+D:\泛亚\CAP\Fairhr.Cap\Comment\bin\Debug\netcoreapp2.2\Comment.deps.json
+D:\泛亚\CAP\Fairhr.Cap\Comment\bin\Debug\netcoreapp2.2\Comment.dll
+D:\泛亚\CAP\Fairhr.Cap\Comment\bin\Debug\netcoreapp2.2\Comment.pdb
+D:\泛亚\CAP\Fairhr.Cap\Comment\obj\Debug\netcoreapp2.2\Comment.csprojAssemblyReference.cache
+D:\泛亚\CAP\Fairhr.Cap\Comment\obj\Debug\netcoreapp2.2\Comment.csproj.CoreCompileInputs.cache
+D:\泛亚\CAP\Fairhr.Cap\Comment\obj\Debug\netcoreapp2.2\Comment.AssemblyInfoInputs.cache
+D:\泛亚\CAP\Fairhr.Cap\Comment\obj\Debug\netcoreapp2.2\Comment.AssemblyInfo.cs
+D:\泛亚\CAP\Fairhr.Cap\Comment\obj\Debug\netcoreapp2.2\Comment.dll
+D:\泛亚\CAP\Fairhr.Cap\Comment\obj\Debug\netcoreapp2.2\Comment.pdb

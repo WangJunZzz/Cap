@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2019.2\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Fairhr.Cap.-1688137041.00" t="ExcludeRecursive" />
+    <e p="D:\泛亚\CAP\Fairhr.Cap" t="IncludeFlat">
+      <e p="Comment" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Comment.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Comment.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OrderDto.cs" t="Include" />
+      </e>
+      <e p="Fairhr.Cap.sln" t="IncludeFlat" />
+      <e p="Fairhr.Service.A" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="Fairhr.Service.A.csproj" t="IncludeRecursive" />
+        <e p="IOrderService.cs" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20190924083031_init.cs" t="Include" />
+          <e p="20190924083031_init.Designer.cs" t="Include" />
+          <e p="20190924084103_update.cs" t="Include" />
+          <e p="20190924084103_update.Designer.cs" t="Include" />
+          <e p="OrderInfoContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Fairhr.Service.A.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="OrderInfo.cs" t="Include" />
+        <e p="OrderInfoContext.cs" t="Include" />
+        <e p="OrderService.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="Fairhr.Service.B" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="SubController.cs" t="Include" />
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="Fairhr.Service.B.csproj" t="IncludeRecursive" />
+        <e p="Migrations" t="Include">
+          <e p="20190924084535_Init.cs" t="Include" />
+          <e p="20190924084535_Init.Designer.cs" t="Include" />
+          <e p="PayInfoContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Fairhr.Service.B.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PayInfo.cs" t="Include" />
+        <e p="PayInfoContext.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
