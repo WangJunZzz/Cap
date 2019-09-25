@@ -21,16 +21,16 @@ namespace Fairhr.Service.B
             Configuration = configuration;
         }
 
-        private const string con = "server=localhost;uid=root;pwd=password;port=3306;database=paydb";
+        private const string con = "server=localhost;uid=root;pwd=password;port=3306;database=wxpaydb";
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<PayInfoContext>(options => { options.UseMySql(con); });
+            services.AddDbContext<WXPayInfoContext>(options => { options.UseMySql(con); });
             services.AddCap(x =>
             {
-                x.UseEntityFramework<PayInfoContext>();
+                x.UseEntityFramework<WXPayInfoContext>();
                 
                 x.UseRabbitMQ(cfg =>
                 {

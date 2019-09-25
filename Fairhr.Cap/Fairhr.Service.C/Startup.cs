@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -21,10 +22,27 @@ namespace Fairhr.Service.C
         }
 
         public IConfiguration Configuration { get; }
-
+        private const string con = "server=localhost;uid=root;pwd=password;port=3306;database=alipaydb";
+        
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<AliPayInfoContext>(options => { options.UseMySql(con); });
+            services.AddCap(x =>
+            {
+                x.UseEntityFramework<AliPayInfoContext>();
+                
+                x.UseRabbitMQ(cfg =>
+                {
+                    cfg.HostName = "120.77.176.104";
+                    //cfg.Port = 5672;
+                    cfg.Password = "rabbitmq";
+                    cfg.UserName = "rabbitmq";
+                    
+                });
+                
+                x.UseDashboard();
+            });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 

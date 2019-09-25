@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Fairhr.Service.B
+namespace Fairhr.Service.C
 {
     public class PayInfo
     {
