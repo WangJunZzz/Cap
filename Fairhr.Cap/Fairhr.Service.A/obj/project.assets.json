@@ -12875,11 +12875,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\泛亚\\CAP\\Fairhr.Cap\\Fairhr.Service.A\\Fairhr.Service.A.csproj",
+      "projectUniqueName": "D:\\泛亚\\Cap\\Fairhr.Cap\\Fairhr.Service.A\\Fairhr.Service.A.csproj",
       "projectName": "Fairhr.Service.A",
-      "projectPath": "D:\\泛亚\\CAP\\Fairhr.Cap\\Fairhr.Service.A\\Fairhr.Service.A.csproj",
+      "projectPath": "D:\\泛亚\\Cap\\Fairhr.Cap\\Fairhr.Service.A\\Fairhr.Service.A.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\泛亚\\CAP\\Fairhr.Cap\\Fairhr.Service.A\\obj\\",
+      "outputPath": "D:\\泛亚\\Cap\\Fairhr.Cap\\Fairhr.Service.A\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12898,8 +12898,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\泛亚\\CAP\\Fairhr.Cap\\Comment\\Comment.csproj": {
-              "projectPath": "D:\\泛亚\\CAP\\Fairhr.Cap\\Comment\\Comment.csproj"
+            "D:\\泛亚\\Cap\\Fairhr.Cap\\Comment\\Comment.csproj": {
+              "projectPath": "D:\\泛亚\\Cap\\Fairhr.Cap\\Comment\\Comment.csproj"
             }
           }
         }

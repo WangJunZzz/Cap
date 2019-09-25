@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\泛亚\\CAP\\Fairhr.Cap\\Fairhr.Service.B\\Fairhr.Service.B.csproj": {}
+    "D:\\泛亚\\Cap\\Fairhr.Cap\\Fairhr.Service.B\\Fairhr.Service.B.csproj": {}
   },
   "projects": {
-    "D:\\泛亚\\CAP\\Fairhr.Cap\\Comment\\Comment.csproj": {
+    "D:\\泛亚\\Cap\\Fairhr.Cap\\Comment\\Comment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\泛亚\\CAP\\Fairhr.Cap\\Comment\\Comment.csproj",
+        "projectUniqueName": "D:\\泛亚\\Cap\\Fairhr.Cap\\Comment\\Comment.csproj",
         "projectName": "Comment",
-        "projectPath": "D:\\泛亚\\CAP\\Fairhr.Cap\\Comment\\Comment.csproj",
+        "projectPath": "D:\\泛亚\\Cap\\Fairhr.Cap\\Comment\\Comment.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\泛亚\\CAP\\Fairhr.Cap\\Comment\\obj\\",
+        "outputPath": "D:\\泛亚\\Cap\\Fairhr.Cap\\Comment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "D:\\泛亚\\CAP\\Fairhr.Cap\\Fairhr.Service.B\\Fairhr.Service.B.csproj": {
+    "D:\\泛亚\\Cap\\Fairhr.Cap\\Fairhr.Service.B\\Fairhr.Service.B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\泛亚\\CAP\\Fairhr.Cap\\Fairhr.Service.B\\Fairhr.Service.B.csproj",
+        "projectUniqueName": "D:\\泛亚\\Cap\\Fairhr.Cap\\Fairhr.Service.B\\Fairhr.Service.B.csproj",
         "projectName": "Fairhr.Service.B",
-        "projectPath": "D:\\泛亚\\CAP\\Fairhr.Cap\\Fairhr.Service.B\\Fairhr.Service.B.csproj",
+        "projectPath": "D:\\泛亚\\Cap\\Fairhr.Cap\\Fairhr.Service.B\\Fairhr.Service.B.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\泛亚\\CAP\\Fairhr.Cap\\Fairhr.Service.B\\obj\\",
+        "outputPath": "D:\\泛亚\\Cap\\Fairhr.Cap\\Fairhr.Service.B\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "D:\\泛亚\\CAP\\Fairhr.Cap\\Comment\\Comment.csproj": {
-                "projectPath": "D:\\泛亚\\CAP\\Fairhr.Cap\\Comment\\Comment.csproj"
+              "D:\\泛亚\\Cap\\Fairhr.Cap\\Comment\\Comment.csproj": {
+                "projectPath": "D:\\泛亚\\Cap\\Fairhr.Cap\\Comment\\Comment.csproj"
               }
             }
           }

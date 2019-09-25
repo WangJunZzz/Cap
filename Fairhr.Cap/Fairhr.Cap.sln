@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fairhr.Service.B", "Fairhr.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comment", "Comment\Comment.csproj", "{375802C7-F1F9-4FC7-B23C-0BD3D67FB12D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fairhr.Service.C", "Fairhr.Service.C\Fairhr.Service.C.csproj", "{FBB8D328-DAAF-4962-AFBE-5881B41776C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{375802C7-F1F9-4FC7-B23C-0BD3D67FB12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{375802C7-F1F9-4FC7-B23C-0BD3D67FB12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{375802C7-F1F9-4FC7-B23C-0BD3D67FB12D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB8D328-DAAF-4962-AFBE-5881B41776C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB8D328-DAAF-4962-AFBE-5881B41776C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB8D328-DAAF-4962-AFBE-5881B41776C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB8D328-DAAF-4962-AFBE-5881B41776C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4b84c8c-1a77-4dfe-8448-72ba3a173b00" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fairhr.Cap/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fairhr.Cap/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fairhr.Cap/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fairhr.Cap/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Fairhr.Cap/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fairhr.Cap/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Fairhr.Cap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Fairhr.Cap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Comment/obj/Debug/netcoreapp2.2/Comment.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Comment/obj/Debug/netcoreapp2.2/Comment.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fairhr.Cap.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Fairhr.Cap.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fairhr.Service.A/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fairhr.Service.A/Startup.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fairhr.Service.A/bin/Debug/netcoreapp2.2/Fairhr.Service.A.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Fairhr.Service.A/bin/Debug/netcoreapp2.2/Fairhr.Service.A.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fairhr.Service.A/bin/Debug/netcoreapp2.2/Fairhr.Service.A.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Fairhr.Service.A/bin/Debug/netcoreapp2.2/Fairhr.Service.A.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fairhr.Service.A/obj/Debug/netcoreapp2.2/Fairhr.Service.A.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Fairhr.Service.A/obj/Debug/netcoreapp2.2/Fairhr.Service.A.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fairhr.Service.A/obj/Debug/netcoreapp2.2/Fairhr.Service.A.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Fairhr.Service.A/obj/Debug/netcoreapp2.2/Fairhr.Service.A.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fairhr.Service.A/obj/Debug/netcoreapp2.2/Fairhr.Service.A.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Fairhr.Service.A/obj/Debug/netcoreapp2.2/Fairhr.Service.A.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fairhr.Service.B/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Fairhr.Service.B/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fairhr.Service.B/obj/Debug/netcoreapp2.2/Fairhr.Service.B.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Fairhr.Service.B/obj/Debug/netcoreapp2.2/Fairhr.Service.B.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fairhr.Service.B/obj/Fairhr.Service.B.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Fairhr.Service.B/obj/Fairhr.Service.B.csproj.nuget.g.props" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +28,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Fairhr.Service.A/OrderInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Fairhr.Service.B/PayInfoContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Fairhr.Service.C/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Fairhr.Service.A/IOrderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Fairhr.Service.C/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Fairhr.Service.A/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/61573500-51C4-4691-91E3-4080BFDF6632/6e/1c17db77/ICapPublisher.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Fairhr.Service.A/Migrations/OrderInfoContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
@@ -31,6 +38,7 @@
     <setting file="file://$PROJECT_DIR$/Fairhr.Service.A/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Fairhr.Service.B/Controllers/SubController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/61573500-51C4-4691-91E3-4080BFDF6632/7/CAP.DashboardOptionsExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB72BD2B-09C8-47C2-95A2-554C1CB45AB3/7/CAP.Options.Extensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Fairhr.Service.B/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Fairhr.Service.A/OrderInfoContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Comment/OrderDto.cs" root0="FORCE_HIGHLIGHTING" />
@@ -59,6 +67,7 @@
         <option value="$PROJECT_DIR$/Fairhr.Service.B/Controllers/SubController.cs" />
         <option value="$PROJECT_DIR$/Fairhr.Service.B/Controllers/ValuesController.cs" />
         <option value="$PROJECT_DIR$/Fairhr.Service.B/Startup.cs" />
+        <option value="$PROJECT_DIR$/Fairhr.Service.A/Startup.cs" />
       </list>
     </option>
   </component>
@@ -82,7 +91,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.Fairhr.Service.A: IIS Express (1)">
+  <component name="RunManager" selected=".NET Launch Settings Profile.Fairhr.Service.C: IIS Express">
     <configuration name="Fairhr.Service.A" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Fairhr.Service.A/Fairhr.Service.A.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
@@ -113,7 +122,7 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fairhr.Service.A: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+    <configuration name="Fairhr.Service.A: IIS Express (2)" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Fairhr.Service.A/Fairhr.Service.A.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
       <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
@@ -128,8 +137,8 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fairhr.Service.B: IIS Express (3)" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Fairhr.Service.B/Fairhr.Service.B.csproj" />
+    <configuration name="Fairhr.Service.A: IIS Express (3)" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Fairhr.Service.A/Fairhr.Service.A.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
       <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
@@ -143,23 +152,8 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Fairhr.Service.B: IIS Express (4)" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Fairhr.Service.B/Fairhr.Service.B.csproj" />
-      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
-      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
-      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
-      <option name="SEND_DEBUG_REQUEST" value="1" />
-      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
-      <method v="2">
-        <option name="Build" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Fairhr.Service.B: IIS Express (5)" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Fairhr.Service.B/Fairhr.Service.B.csproj" />
+    <configuration name="Fairhr.Service.A: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Fairhr.Service.A/Fairhr.Service.A.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
       <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
@@ -188,13 +182,28 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Fairhr.Service.C: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile" temporary="true">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Fairhr.Service.C/Fairhr.Service.C.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Launch Settings Profile.Fairhr.Service.C: IIS Express" />
+        <item itemvalue=".NET Launch Settings Profile.Fairhr.Service.A: IIS Express (3)" />
+        <item itemvalue=".NET Launch Settings Profile.Fairhr.Service.A: IIS Express (2)" />
         <item itemvalue=".NET Launch Settings Profile.Fairhr.Service.A: IIS Express (1)" />
         <item itemvalue=".NET Launch Settings Profile.Fairhr.Service.B: IIS Express" />
-        <item itemvalue=".NET Launch Settings Profile.Fairhr.Service.B: IIS Express (5)" />
-        <item itemvalue=".NET Launch Settings Profile.Fairhr.Service.B: IIS Express (4)" />
-        <item itemvalue=".NET Launch Settings Profile.Fairhr.Service.B: IIS Express (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +221,8 @@
       <workItem from="1569292101009" duration="1425000" />
       <workItem from="1569297488758" duration="8953000" />
       <workItem from="1569318053787" duration="2006000" />
+      <workItem from="1569379602569" duration="3577000" />
+      <workItem from="1569395465703" duration="94000" />
     </task>
     <servers />
   </component>
@@ -225,7 +236,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

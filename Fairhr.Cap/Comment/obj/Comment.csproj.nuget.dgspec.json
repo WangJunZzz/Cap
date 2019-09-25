@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\泛亚\\CAP\\Fairhr.Cap\\Comment\\Comment.csproj": {}
+    "D:\\泛亚\\Cap\\Fairhr.Cap\\Comment\\Comment.csproj": {}
   },
   "projects": {
-    "D:\\泛亚\\CAP\\Fairhr.Cap\\Comment\\Comment.csproj": {
+    "D:\\泛亚\\Cap\\Fairhr.Cap\\Comment\\Comment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\泛亚\\CAP\\Fairhr.Cap\\Comment\\Comment.csproj",
+        "projectUniqueName": "D:\\泛亚\\Cap\\Fairhr.Cap\\Comment\\Comment.csproj",
         "projectName": "Comment",
-        "projectPath": "D:\\泛亚\\CAP\\Fairhr.Cap\\Comment\\Comment.csproj",
+        "projectPath": "D:\\泛亚\\Cap\\Fairhr.Cap\\Comment\\Comment.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\泛亚\\CAP\\Fairhr.Cap\\Comment\\obj\\",
+        "outputPath": "D:\\泛亚\\Cap\\Fairhr.Cap\\Comment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

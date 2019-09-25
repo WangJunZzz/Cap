@@ -1,0 +1,14 @@
+D:\泛亚\CAP\Fairhr.Cap\Fairhr.Service.C\bin\Debug\netcoreapp2.2\Fairhr.Service.C.deps.json
+D:\泛亚\CAP\Fairhr.Cap\Fairhr.Service.C\bin\Debug\netcoreapp2.2\Fairhr.Service.C.runtimeconfig.json
+D:\泛亚\CAP\Fairhr.Cap\Fairhr.Service.C\bin\Debug\netcoreapp2.2\Fairhr.Service.C.runtimeconfig.dev.json
+D:\泛亚\CAP\Fairhr.Cap\Fairhr.Service.C\bin\Debug\netcoreapp2.2\Fairhr.Service.C.dll
+D:\泛亚\CAP\Fairhr.Cap\Fairhr.Service.C\bin\Debug\netcoreapp2.2\Fairhr.Service.C.pdb
+D:\泛亚\CAP\Fairhr.Cap\Fairhr.Service.C\obj\Debug\netcoreapp2.2\Fairhr.Service.C.csprojAssemblyReference.cache
+D:\泛亚\CAP\Fairhr.Cap\Fairhr.Service.C\obj\Debug\netcoreapp2.2\Fairhr.Service.C.csproj.CoreCompileInputs.cache
+D:\泛亚\CAP\Fairhr.Cap\Fairhr.Service.C\obj\Debug\netcoreapp2.2\Fairhr.Service.C.RazorAssemblyInfo.cache
+D:\泛亚\CAP\Fairhr.Cap\Fairhr.Service.C\obj\Debug\netcoreapp2.2\Fairhr.Service.C.RazorAssemblyInfo.cs
+D:\泛亚\CAP\Fairhr.Cap\Fairhr.Service.C\obj\Debug\netcoreapp2.2\Fairhr.Service.C.AssemblyInfoInputs.cache
+D:\泛亚\CAP\Fairhr.Cap\Fairhr.Service.C\obj\Debug\netcoreapp2.2\Fairhr.Service.C.AssemblyInfo.cs
+D:\泛亚\CAP\Fairhr.Cap\Fairhr.Service.C\obj\Debug\netcoreapp2.2\Fairhr.Service.C.RazorTargetAssemblyInfo.cache
+D:\泛亚\CAP\Fairhr.Cap\Fairhr.Service.C\obj\Debug\netcoreapp2.2\Fairhr.Service.C.dll
+D:\泛亚\CAP\Fairhr.Cap\Fairhr.Service.C\obj\Debug\netcoreapp2.2\Fairhr.Service.C.pdb

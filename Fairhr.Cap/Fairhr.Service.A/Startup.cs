@@ -43,7 +43,7 @@ namespace Fairhr.Service.A
                 {
                     cfg.HostName = "120.77.176.104";
                     //cfg.Port = 5672;
-                    cfg.Password = "rabbitmq";
+                    cfg.Password = "rabbitmq1";
                     cfg.UserName = "rabbitmq";
                 });
                 
