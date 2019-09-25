@@ -1,15 +1,15 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace Fairhr.Service.B
+namespace Fairhr.Service.C
 {
-    public class PayInfoContext:DbContext
+    public class AliPayInfoContext : DbContext
     {
-        public PayInfoContext(DbContextOptions<PayInfoContext> options) : base(options)
+        public AliPayInfoContext(DbContextOptions<AliPayInfoContext> options) : base(options)
         {
         }
-        
+
         public virtual DbSet<PayInfo> PayInfo { get; set; }
-        
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<PayInfo>(b =>
@@ -19,8 +19,8 @@ namespace Fairhr.Service.B
                 b.Property(e => e.OrderId).HasMaxLength(64);
                 b.Property(e => e.Money).HasMaxLength(32);
                 b.Property(e => e.stauts).HasColumnType("int(2)").HasDefaultValue(0);
-            });  
-            
+            });
+
             base.OnModelCreating(modelBuilder);
         }
     }
