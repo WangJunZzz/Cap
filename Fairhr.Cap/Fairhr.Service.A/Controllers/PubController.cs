@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using DotNetCore.CAP;
+using Fairhr.Service.A.LogicHandler;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Fairhr.Service.A.Controllers
@@ -13,11 +14,12 @@ namespace Fairhr.Service.A.Controllers
     {
         private readonly ICapPublisher _publisher;
         private readonly IOrderService _orderService;
-
-        public PubController(ICapPublisher capPublisher, IOrderService orderService)
+        private readonly IProductLogicHandler productLogicHandler;
+        public PubController(ICapPublisher capPublisher, IOrderService orderService, IProductLogicHandler logicHandler)
         {
             _orderService = orderService;
             _publisher = capPublisher;
+            productLogicHandler = logicHandler;
         }
 
         [HttpGet("order")]
@@ -31,6 +33,12 @@ namespace Fairhr.Service.A.Controllers
             order.CraeteTime = DateTime.Now;
             await _orderService.CreateOrder(order);
             return Ok(order.Name);
+        }
+
+        [HttpGet("product")]
+        public async Task<IActionResult> SendProduct()
+        {
+            return Ok(await productLogicHandler.SendProductInfo());
         }
     }
 }

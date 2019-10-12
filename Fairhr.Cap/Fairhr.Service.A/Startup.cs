@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Fairhr.Service.A.LogicHandler;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -29,6 +30,7 @@ namespace Fairhr.Service.A
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddTransient<IOrderService, OrderService>();
+            services.AddTransient<IProductLogicHandler, ProductLogicHandler>();
             services.AddDbContext<OrderInfoContext>(options =>
             {
                 options.UseMySql(con);

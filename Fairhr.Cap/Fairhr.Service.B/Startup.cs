@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Fairhr.Service.B.LogicHandler;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -27,6 +28,7 @@ namespace Fairhr.Service.B
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient<IProductLogicHandler, ProductLogicHandler>();
             services.AddDbContext<WXPayInfoContext>(options => { options.UseMySql(con); });
             services.AddCap(x =>
             {

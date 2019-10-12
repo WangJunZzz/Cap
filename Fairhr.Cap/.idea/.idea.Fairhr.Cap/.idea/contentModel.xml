@@ -24,6 +24,7 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
+          <e p="PubController.cs" t="Include" />
           <e p="SubController.cs" t="Include" />
           <e p="ValuesController.cs" t="Include" />
         </e>
