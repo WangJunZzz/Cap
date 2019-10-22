@@ -27,6 +27,7 @@ namespace Fairhr.Service.C.Controllers
                 pay.stauts = 1;
                 pay.UpdateTime = DateTime.Now;
                 _payInfoContext.SaveChanges();
+                tran.Commit();
                 OrderDto dto=new OrderDto();
                 dto.OrderId = pay.OrderId;
                 dto.Money = pay.Money;
